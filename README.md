@@ -14,6 +14,11 @@ Manager Functionality
 3. Add New Inventory -- Allows manager to add quantities to specific item ids for replenishment.
 4. Add New Products -- Allows manager to update the inventory with new product information (including price, department, and current stock levels)
 
+Supervisor Functionality
+1. Show product sales/overhead costs for all departments
+2. Create new Departments
+3. FUTURE UPDATE -- Add profit column for calculating sales vs costs.
+
 
 Link to video demonstrating Customer and Manager Interactivity:
 https://drive.google.com/file/d/18t4IfVaza-7QoX3mlIW6JhAGetyh3jUo/view?usp=sharing
